@@ -1,6 +1,6 @@
 🔭 I’m currently working on...
 - [Flipper](https://flippercloud.io)
-- [Frictionless Generators](https://garrettdimon.com/products/frictionless-generators)
+- [Frictionless Generators](https://generators.dev)
 - [Minitest Heat](https://garrettdimon.com/work/projects/minitest-heat)
 
 💾 In the past...
