@@ -1,4 +1,5 @@
 I’m currently working on...
+- 🎙️ [Fireside.fm](https://fireside.fm)
 - 🐬 [Flipper Cloud](https://flippercloud.io) & [Flipper](https://github.com/flippercloud/flipper)
 - ⚙️ [Frictionless Generators](https://generators.dev)
 - 🔥 [Minitest Heat](https://garrettdimon.com/work/projects/minitest-heat)
